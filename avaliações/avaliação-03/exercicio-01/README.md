@@ -1,5 +1,5 @@
 # Exercicio-01
-mplementar o programa abaixo:
+Implementar o programa abaixo:
 
 // Faça um programa que leia a pontuação obtida por um jogador em // um jogo de Sinuca.
 // E atenda os criterios definidos abaixo
